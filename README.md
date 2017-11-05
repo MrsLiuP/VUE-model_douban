@@ -1,9 +1,5 @@
-<p align="center">
-	<img src="./screenshot/douban_logo.png">
-</p>
 
 <br>
-
 <p align="center">
 Awesome douban DEMO created with Vue2.x + Vuex + Vue-router + Superagent
 </p>
